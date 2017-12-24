@@ -6,3 +6,8 @@
 下記のコマンドを実行します。  
 `game-manager.exe`
 
+## ゲームの追加方法
+$env:APPDATA\.config\game-manager配下に生成される
+gameinfo.csvを直接編集してください（投げやり)
+
+Ubuntu環境でしたら$HOME/.config/game-manager配下に生成されます。
