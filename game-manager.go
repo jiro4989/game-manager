@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	game "game-manager/game"
+	game "github.com/jiro4989/game-manager/game"
 
 	keyboard "github.com/julienroland/keyboard-termbox"
 	termbox "github.com/nsf/termbox-go"
